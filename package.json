@@ -1,0 +1,15 @@
+{
+  "name": "call-record-backend",
+  "version": "1.0.0",
+  "description": "Backend API server for Call Record Catch app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "megajs": "^1.3.10",
+    "multer": "^1.4.5-lts.1"
+  }
+}
