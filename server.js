@@ -13,7 +13,7 @@ const { Storage: MegaStorage } = require('megajs');
 // IMPORTANT: Standard folder links don't allow anonymous uploads. 
 // You MUST enter your Mega email and password here for it to work.
 const MEGA_EMAIL = 'code.shahid11@gmail.com'; 
-const MEGA_PASSWORD = 'Shahid@1998'; 
+const MEGA_PASSWORD = 'Shahid@009'; 
 let megaStorage = null;
 let megaTargetFolder = null;
 
